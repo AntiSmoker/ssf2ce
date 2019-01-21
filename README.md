@@ -67,7 +67,6 @@ Owners
 
 Contributors 
 
-- KingAteryu - Ideas
 - TheOneMusaab - Sonic Redesign
 - Happyfrozenfire - Initial stage alt concept
 - NoS - Promotion
