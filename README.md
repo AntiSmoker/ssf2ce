@@ -1,7 +1,7 @@
 SSF2: Community Edition
 ========================================================================
 
-Navigation: Download (coming soon) | **Server repository** 
+Navigation: Download (public DL coming soon) | **Server repository** 
   
 Introduction
 ------------------------------------------------------------------------
